@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TopprEvents</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="emptyData">No Data Present</string>
+    <string name="sortby">Sort by</string>
+    <string name="categorySort">Category</string>
+    <string name="favSort">Favourite</string>
+    <string name="title_activity_fav">fav</string>
+    <string name="emptyDataFav">No Favourite Event</string>
+
+    <string name="fav">Favourites</string>
+
+    <string name="textAll">Total event(s): </string>
+    <string name="title_activity_detail_toppr_event">detail_toppr_event</string>
+    <string name="Experience">Years of Experience : </string>
+    <string name="title_activity_statistics">Statistics</string>
+
+    <string name="bot">BOT</string>
+    <string name="hackathon">HACKATHON</string>
+    <string name="hiring">HIRING</string>
+    <string name="competitive">Competitive</string>
+    <string name="others">Others</string>
+
+    <string name="graph">Event Demographics</string>
+    <string name="action_statistics">Statistics</string>
+
+    <string name="share">Share</string>
+</resources>
